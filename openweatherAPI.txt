@@ -1,0 +1,4 @@
+api.openweathermap.org/data/2.5/weather?q=Visakhapatnam, IN&appid=5416ae8e984a063fd302f1c0e643c864
+5416ae8e984a063fd302f1c0e643c864
+Visakhapatnam, IN
+8e045939d3d1fcac6a717fb9012eeaaa
