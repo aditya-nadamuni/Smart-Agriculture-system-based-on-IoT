@@ -1,6 +1,7 @@
 # llSPS-INT-3287-Smart-Agriculture-system-based-on-IoT
 Smart Agriculture system based on IoT
 
+Project Manager : Aditya Nadamuni 
 
 Internship Title : Smart Agriculture system based on IoT - SB38175
 
