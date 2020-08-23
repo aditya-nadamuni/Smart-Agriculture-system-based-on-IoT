@@ -1,14 +1,31 @@
 # llSPS-INT-3287-Smart-Agriculture-system-based-on-IoT
-Smart Agriculture system based on IoT
 
-Project Manager : Aditya Nadamuni 
+# ***Smart Agriculture system based on IoT***
 
-Internship Title : Smart Agriculture system based on IoT - SB38175
+## Training Internship Details
 
-Project ID : SPS_PRO_101
+**Project Manager** : Aditya Nadamuni 
 
-Project Title : Smart Agriculture system based on IoT
+**Started On** : 02-07-2020
+**Completed On** : 01-08-2020
 
-Project Demo Video: https://youtu.be/j54gwW6kfdg
+**Internship Title** : Smart Agriculture system based on IoT - SB38175
 
-Feedback Video: https://drive.google.com/file/d/1CfIkH-lX60LGwQGt1Tlg4lTMRYh9W1hQ/view?usp=sharing
+**Project ID** : SPS_PRO_101
+
+**Intern Platform** : ***SmartInternz*** Platform (From TheSmartBridge)
+
+## Technologies Used: 🛠
+
+- Python
+- NodeMCU
+- IBM Cloud 
+- IBM Watson IoT Platform
+- OpenWeather API
+- IBM IoT Simulator
+
+## Links 
+
+**Project Demo Video** : https://youtu.be/j54gwW6kfdg
+
+**Feedback Video** : https://drive.google.com/file/d/1CfIkH-lX60LGwQGt1Tlg4lTMRYh9W1hQ/view?usp=sharing
